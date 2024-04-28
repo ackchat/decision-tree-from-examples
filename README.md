@@ -2,4 +2,4 @@
 Learning Algorithm for Decision-Tree using Examples.
 
 ## Source of Examples :
-[Example Dataset](https://github.com/aimacode/aima-data/blob/master/restaurant.csv)
+[https://github.com/aimacode/aima-data](https://github.com/aimacode/aima-data/blob/master/restaurant.csv)
